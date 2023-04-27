@@ -5,7 +5,7 @@
 ## PESys
 
 * [PESys专利进化推荐系统](pesys-zhuan-li-jin-hua-tui-jian-xi-tong/page-2.md)
-  * [1 系统概述](pesys/pesys-zhuan-li-jin-hua-tui-jian-xi-tong/1-xi-tong-gai-shu.md)
+  * [1 系统概述](pesys/pesys-zhuan-li-jin-hua-tui-jian-xi-tong/1.md)
 
 ## OpenReview
 
